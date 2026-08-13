@@ -108,10 +108,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T20:43:15Z",
+            "last_commit": "2026-08-13T09:24:04Z",
             "owner": "OPCFoundation",
             "repo": "UA-.NETStandard",
-            "stars": 2370
+            "stars": 2371
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-08-09T14:05:39Z",
             "owner": "FreeOpcUa",
             "repo": "opcua-asyncio",
-            "stars": 1456
+            "stars": 1457
           }
         },
         {
@@ -804,7 +804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:26:23.624Z",
+    "last_updated": "2026-08-13T10:17:50.734Z",
     "original_repository": "iswunistuttgart/awesome-opcua",
     "original_repository_sha": "6591c8d9e6b73675a27c68f2d1668e1e2884c9b3",
     "enhanced_repository": "enhansome/enhansome-opcua",

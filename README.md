@@ -95,7 +95,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
   Compare different implementations for OPC UA
 * [Designentscheidungen für OPC-UA-Informationsmodelle](https://www.ingenieur.de/fachmedien/wt-werkstattstechnik/ausgaben-wt-werkstattstechnik-online/inhalte-der-online-ausgabe-5-2020/) (German) Description of OPC UA Design decisions in OPC UA for Weighing Technology and OPC UA for Machine Tools
 * [Der Trend zur branchenorienterten OPC UA Companion Specification und deren Herausforderungen](https://www.der-maschinenbau.de/markt-trends-technik/der-trend-und-seine-herausforderungen/) (German) Descriptes the Trends of OPC UA Companion Specification
-* [OPC UA for Devs in 10 Minutes](https://github.com/umati/hackathon/blob/main/2nd_hackathon/Presentations/20230516_OpcUaIn10Minutes.pdf) ⭐ 3 | 🐛 2 | 🌐 C# | 📅 2026-08-13 - short presentation for developers to grasp the concept of OPC UA information modelling
+* [OPC UA for Devs in 10 Minutes](https://github.com/umati/hackathon/blob/main/2nd_hackathon/Presentations/20230516_OpcUaIn10Minutes.pdf) ⭐ 3 | 🐛 3 | 🌐 C# | 📅 2026-08-15 - short presentation for developers to grasp the concept of OPC UA information modelling
 * [File transfer via OPC UA](https://www.interop4x.de/news/file-transfer-opcua) compare the OPC UA file transfer with other protcols like HTTP, FTP
 
 ### Videos
@@ -148,7 +148,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
 
 #### C\#
 
-* [UA.NET Standard](https://github.com/OPCFoundation/UA-.NETStandard) ⭐ 2,371 | 🐛 40 | 🌐 C# | 📅 2026-08-14 - Server/Client - Official OPC UA .NET Standard Stack from the OPC Foundation. \[GPL-2.0 / RCL dual licensed]
+* [UA.NET Standard](https://github.com/OPCFoundation/UA-.NETStandard) ⭐ 2,371 | 🐛 28 | 🌐 C# | 📅 2026-08-15 - Server/Client - Official OPC UA .NET Standard Stack from the OPC Foundation. \[GPL-2.0 / RCL dual licensed]
 * [opc-ua-client](https://github.com/convertersystems/opc-ua-client) ⭐ 466 | 🐛 29 | 🌐 C# | 📅 2025-09-01- only Client \[MIT]
 * [LibUA](https://github.com/nauful/LibUA) ⭐ 342 | 🐛 0 | 🌐 C# | 📅 2026-04-14 - Server/Client \[Apache-2.0]
 * [h-opc](https://github.com/hylasoft-usa/h-opc) ⭐ 316 | 🐛 40 | 🌐 C# | 📅 2020-01-23 - OPC client made simpler, for UA and DA \[MIT]
@@ -172,7 +172,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
 
 #### Java
 
-* [Eclipse Milo™](https://github.com/eclipse/milo) ⭐ 1,380 | 🐛 2 | 🌐 Java | 📅 2026-08-12 - Server/Client - Java open source implementation of OPC UA (IEC 62541). \[EPL-2.0]
+* [Eclipse Milo™](https://github.com/eclipse/milo) ⭐ 1,381 | 🐛 2 | 🌐 Java | 📅 2026-08-12 - Server/Client - Java open source implementation of OPC UA (IEC 62541). \[EPL-2.0]
 * [opcua4j](https://code.google.com/p/opcua4j/) - only Server
 * [Prosys OPC UA](https://www.prosysopc.com/products/opc-ua-java-sdk/) - Server/Client proprietary
 
@@ -202,7 +202,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
 
 #### Golang
 
-* [gopcua/opcua](https://github.com/gopcua/opcua) ⭐ 1,055 | 🐛 20 | 🌐 Go | 📅 2026-08-09 - Server/Client - A native Go implementation of the OPC/UA Binary Protocol. \[MIT]
+* [gopcua/opcua](https://github.com/gopcua/opcua) ⭐ 1,055 | 🐛 21 | 🌐 Go | 📅 2026-08-09 - Server/Client - A native Go implementation of the OPC/UA Binary Protocol. \[MIT]
 * [awcullen/opcua](https://github.com/awcullen/opcua) ⭐ 112 | 🐛 5 | 🌐 Go | 📅 2026-02-08 - Server/Client. \[MIT]
 
 #### Delphi
@@ -259,9 +259,9 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
 *Implementations of Example, Simulation and SampleServer that are running on the internet or can be run local.*
 
 * [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients) ⭐ 1,653 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-12
-* `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) ⭐ 1,380 | 🐛 2 | 🌐 Java | 📅 2026-08-12 based on eclipse/milo
-* [Azure OPC UA Sample](https://github.com/Azure-Samples/iot-edge-opc-plc) ⭐ 292 | 🐛 2 | 🌐 C# | 📅 2026-08-14 - sample server in c#
-* `opc.tcp://opcua.umati.app:4840` - [umati Demo Server](https://github.com/umati/Sample-Server) ⭐ 61 | 🐛 15 | 🌐 C++ | 📅 2026-08-13 implementing different umati endorsed companion specifications, based on [open62541](https://open62541.org/)
+* `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) ⭐ 1,381 | 🐛 2 | 🌐 Java | 📅 2026-08-12 based on eclipse/milo
+* [Azure OPC UA Sample](https://github.com/Azure-Samples/iot-edge-opc-plc) ⭐ 292 | 🐛 1 | 🌐 C# | 📅 2026-08-14 - sample server in c#
+* `opc.tcp://opcua.umati.app:4840` - [umati Demo Server](https://github.com/umati/Sample-Server) ⭐ 61 | 🐛 15 | 🌐 C++ | 📅 2026-08-14 implementing different umati endorsed companion specifications, based on [open62541](https://open62541.org/)
 * `opc.tcp://opcua.umati.app:4843` - [umati Demo Server 3](https://github.com/umati/Sample-Server-node-opcua) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 implementing different umati endorsed companion specifications, based on [node-opcua](https://node-opcua.github.io/)
 * [OPC UA Player](https://github.com/MileBuurmeijer/OPCUA-Player) ⭐ 18 | 🐛 1 | 🌐 Java | 📅 2026-07-12 - supports replaying OPC UA data from a data file
 * `opc.tcp://opcua.umati.app:4842` - [umati Demo Server 2](https://github.com/umati/Sample-Server-asyncio) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-08-10 implementing different umati endorsed companion specifications, based on [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) ⭐ 1,457 | 🐛 248 | 🌐 Python | 📅 2026-08-09
@@ -275,7 +275,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
 *Implementations of server and client applications and other examples.*
 
 * [convertersystems/opc-ua-samples](https://github.com/convertersystems/opc-ua-samples) ⭐ 115 | 🐛 1 | 🌐 C# | 📅 2023-01-16 - Sample HMIs using OPC Unified Architecture (OPC UA) and Visual Studio. \[MIT]
-* [umati Sample Server](https://github.com/umati/Sample-Server) ⭐ 61 | 🐛 15 | 🌐 C++ | 📅 2026-08-13 based on [open62541](https://github.com/open62541/open62541) ⭐ 3,206 | 🐛 820 | 🌐 C | 📅 2026-08-14 \[MPL-2.0]
+* [umati Sample Server](https://github.com/umati/Sample-Server) ⭐ 61 | 🐛 15 | 🌐 C++ | 📅 2026-08-14 based on [open62541](https://github.com/open62541/open62541) ⭐ 3,207 | 🐛 820 | 🌐 C | 📅 2026-08-14 \[MPL-2.0]
 * [UA-CloudLibrary](https://github.com/OPCFoundation/UA-CloudLibrary) ⭐ 49 | 🐛 3 | 🌐 C# | 📅 2026-07-22 - The reference implementation of the UA Cloud Library \[MIT]
 * [UA-CloudDashboard](https://github.com/barnstee/UA-CloudDashboard) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-13 - A cloud-based, dockerized dashboard for displaying OPC UA PubSub telemetry data, read directly from an Azure IoT Hub. \[MIT]
 * [umati Sample Server 3](https://github.com/umati/SampleServer-node-opcua) ⭐ 21 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 based on [node-opcua](http://node-opcua.github.io/) \[APL-2.0]
@@ -283,7 +283,7 @@ See the [official OPC Foundation site](https://opcfoundation.org/about/opc-techn
 * [umati Sample Server 2](https://github.com/umati/Sample-Server-asyncio) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-08-10 based on [opcua-asyncio](https://github.com/FreeOpcUa/opcua-asyncio) ⭐ 1,457 | 🐛 248 | 🌐 Python | 📅 2026-08-09 \[APL-2.0]
 * [OPC Router Docker Sample](https://github.com/OPC-Router/opc-ua-umati-mssql-grafana) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2023-09-26 - A very easy to use sample showcasing data transfers from a umati server to a SQL database.
 * [opcua-skills/plug-and-produce](https://github.com/opcua-skills/plug-and-produce) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2021-04-24 - Plug-and-Produce System Architecture for Robotic Applications using OPC UA \[proprietary]
-* [OPC UA for Joining Systems](https://github.com/umati/UA-for-Industrial-Joining-Technologies) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-08-12 - Test clients and servers based on OPC UA for Joining Systems developed by VDMA Industrial Joining Technologies working group. \[APL-2.0]
+* [OPC UA for Joining Systems](https://github.com/umati/UA-for-Industrial-Joining-Technologies) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-08-15 - Test clients and servers based on OPC UA for Joining Systems developed by VDMA Industrial Joining Technologies working group. \[APL-2.0]
 * [OPCModbusUAServer](https://github.com/BoBiene/OPCModbusUAServer) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2021-12-20 - An open source OPC UA server for Modbus TCP devices \[MIT]
 * [OPC UA primer](https://github.com/ntd/opcua-primer) ⭐ 5 | 🐛 0 | 🌐 Makefile | 📅 2026-04-16 - A sample OPC UA server based on `open62541` and on a model design XML. \[MIT]
 * [opcua-machinery-client](https://github.com/AndreasHeine/opcua-machinery-client) ⭐ 5 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-09 - Client example showcaseing the OPC UA for Machinery from a data consumer perspective. \[MIT]
@@ -304,7 +304,7 @@ coming soon
 
 ## Related Lists
 
-* [open62541's List of Open Source OPC UA Implementations](https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations) ⭐ 3,206 | 🐛 820 | 🌐 C | 📅 2026-08-14 - List of open source OPC UA implementations.
+* [open62541's List of Open Source OPC UA Implementations](https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations) ⭐ 3,207 | 🐛 820 | 🌐 C | 📅 2026-08-14 - List of open source OPC UA implementations.
 * [Agile-IoT/awesome-open-iot](https://github.com/Agile-IoT/awesome-open-iot) ⭐ 705 | 🐛 8 | 📅 2023-12-21 - A curated list of awesome open source IoT frameworks, libraries and software.
 
 ## Tutorials
@@ -323,4 +323,4 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

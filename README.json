@@ -1,437 +1,470 @@
 {
   "items": [
     {
-      "description": "Information material apart from the standards documents.",
-      "items": [],
-      "title": "Resources"
-    },
-    {
       "description": "Software for creating OPC UA Servers, Clients, Publishers, Subscribers or Information Models.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ASNeG",
+                  "description": "Server/Client",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 149216768,
+                    "language": "C++",
+                    "last_commit": "2025-02-02T18:34:35Z",
+                    "owner": "ASNeG",
+                    "repo": "OpcUaStack",
+                    "stars": 136
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "uaf",
+                  "description": "Client (wrapper over proprietary sdk)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10055010,
+                    "language": "C++",
+                    "last_commit": "2026-07-10T12:34:03Z",
+                    "owner": "uaf",
+                    "repo": "uaf",
+                    "stars": 110
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NodesetLoader",
+                  "description": "Library for importing nodesets in xml schema, add nodeset import to open62541 [MPL-2.0]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 695775689,
+                    "language": "C",
+                    "last_commit": "2024-04-13T18:24:45Z",
+                    "owner": "matkonnerth",
+                    "repo": "nodesetLoader",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "freeopcua",
+                  "description": "Open Source C++ OPC-UA Server and Client Library. [LGPL-3.0]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 21086145,
+                    "language": "C++",
+                    "last_commit": "2024-08-14T15:15:14Z",
+                    "owner": "FreeOpcUa",
+                    "repo": "freeopcua",
+                    "stars": 786
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "QUaServer",
+                  "description": "Qt C++ wrapper for open62541 server stack. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 180606564,
+                    "language": "C++",
+                    "last_commit": "2024-02-13T18:21:05Z",
+                    "owner": "QUaServer",
+                    "repo": "QUaServer",
+                    "stars": 121
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C++"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "UA.NET Standard",
+                  "description": "Server/Client - Official OPC UA .NET Standard Stack from the OPC Foundation. [GPL-2.0 / RCL dual licensed]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51595028,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T18:36:47Z",
+                    "owner": "OPCFoundation",
+                    "repo": "UA-.NETStandard",
+                    "stars": 2372
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "opc-ua-client",
+                  "description": "only Client [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 61950201,
+                    "language": "C#",
+                    "last_commit": "2025-09-01T19:23:16Z",
+                    "owner": "convertersystems",
+                    "repo": "opc-ua-client",
+                    "stars": 466
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LibUA",
+                  "description": "Server/Client [Apache-2.0]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 184088857,
+                    "language": "C#",
+                    "last_commit": "2026-08-18T11:38:56Z",
+                    "owner": "nauful",
+                    "repo": "LibUA",
+                    "stars": 342
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "h-opc",
+                  "description": "OPC client made simpler, for UA and DA [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29739673,
+                    "language": "C#",
+                    "last_commit": "2020-01-23T14:29:43Z",
+                    "owner": "hylasoft-usa",
+                    "repo": "h-opc",
+                    "stars": 316
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "C#"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Python FreeOpcUa",
+                  "description": "Server /Client [LGPL-3.0]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31074280,
+                    "language": "Python",
+                    "last_commit": "2024-05-18T14:28:47Z",
+                    "owner": "FreeOpcUa",
+                    "repo": "python-opcua",
+                    "stars": 1489
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "opcua-asyncio",
+                  "description": "OPC UA / IEC 62541 Client and Server for Python >= 3.7 and pypy3. [LGPL-3.0]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 143260613,
+                    "language": "Python",
+                    "last_commit": "2026-08-16T13:16:52Z",
+                    "owner": "FreeOpcUa",
+                    "repo": "opcua-asyncio",
+                    "stars": 1461
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "uaf",
+                  "description": "Client (wrapper over proprietary sdk) [LGPL-3.0]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10055010,
+                    "language": "C++",
+                    "last_commit": "2026-07-10T12:34:03Z",
+                    "owner": "uaf",
+                    "repo": "uaf",
+                    "stars": 110
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Python"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "locka99/opcua",
+                  "description": "OPC UA server / client API implementation for Rust. [MPL-2.0]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 78271061,
+                    "language": "Rust",
+                    "last_commit": "2025-04-08T02:12:35Z",
+                    "owner": "locka99",
+                    "repo": "opcua",
+                    "stars": 574
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HMIProject/open62541",
+                  "description": "crate provides high-level, safe bindings for the C99 library open62541. [MPL-2.0]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 722206438,
+                    "language": "Rust",
+                    "last_commit": "2026-07-30T12:45:23Z",
+                    "owner": "HMIProject",
+                    "repo": "open62541",
+                    "stars": 34
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Rust"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gopcua/opcua",
+                  "description": "Server/Client - A native Go implementation of the OPC/UA Binary Protocol. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 142013463,
+                    "language": "Go",
+                    "last_commit": "2026-08-09T16:47:19Z",
+                    "owner": "gopcua",
+                    "repo": "opcua",
+                    "stars": 1055
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "awcullen/opcua",
+                  "description": "Server/Client. [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 278507648,
+                    "language": "Go",
+                    "last_commit": "2026-02-08T20:36:22Z",
+                    "owner": "awcullen",
+                    "repo": "opcua",
+                    "stars": 112
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Golang"
+            }
+          ],
+          "description": "SDKs to create OPC UA components.",
+          "node_type": "group",
+          "title": "SDKs and Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FreeOpcUA",
+              "description": "OpenSource Client based on python. [GPL-3.0]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43219402,
+                "language": "Python",
+                "last_commit": "2026-08-05T06:36:04Z",
+                "owner": "FreeOpcUa",
+                "repo": "opcua-client-gui",
+                "stars": 667
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "opcilloscope",
+              "description": "Lightweight, cross-platform terminal-based OPC UA client with real-time oscilloscope view. Keyboard and mouse friendly. [MIT]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1127986830,
+                "language": "C#",
+                "last_commit": "2026-07-16T09:25:08Z",
+                "owner": "SquareWaveSystems",
+                "repo": "opcilloscope",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OPC UA Browser",
+              "description": "Qt-based Mobile app based on open62541/Qt OPC UA. [GPL-3.0]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 741951281,
+                "language": "C++",
+                "last_commit": "2025-06-11T07:48:56Z",
+                "owner": "basysKom",
+                "repo": "opcua_browser",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OPC UA Test tool",
+              "description": "Automate OPC UA server performance testing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269558965,
+                "language": "C++",
+                "last_commit": "2026-02-18T13:03:55Z",
+                "owner": "matkonnerth",
+                "repo": "opcuatesttool",
+                "stars": 6
+              }
+            }
+          ],
+          "description": "Test Clients to check server implementations manually.",
+          "node_type": "group",
+          "title": "Test Clients"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FreeOpcUa/opcua-modeler",
+              "description": "Free OPC UA Modeler is a tool for designing OPC UA address spaces [GPL-3.0]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64197046,
+                "language": "Python",
+                "last_commit": "2022-02-13T10:16:50Z",
+                "owner": "FreeOpcUa",
+                "repo": "opcua-modeler",
+                "stars": 259
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UA-ModelCompiler",
+              "description": "Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48052008,
+                "language": "C#",
+                "last_commit": "2026-08-01T00:16:24Z",
+                "owner": "OPCFoundation",
+                "repo": "UA-ModelCompiler",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NodeDoc",
+              "description": "Tool for documentation and comparing nodesets [MIT]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 713328083,
+                "language": "HTML",
+                "last_commit": "2025-03-20T09:18:21Z",
+                "owner": "software-competence-center-hagenberg",
+                "repo": "NodeDoc",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UML2OPCUA",
+              "description": "Papyrus plugin to model OPC UA Information models with Papyrus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258445380,
+                "language": "Java",
+                "last_commit": "2021-12-07T12:08:58Z",
+                "owner": "model-UA",
+                "repo": "papyrus-opcua-plugin",
+                "stars": 7
+              }
+            }
+          ],
+          "description": "Tools to create OPC UA Information Models.",
+          "node_type": "group",
+          "title": "Modelling Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OPC UA for Cloud Library",
+              "description": "OPC UA Information Model database with a REST and GraphQL interface (Source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368626494,
+                "language": "C#",
+                "last_commit": "2026-07-22T13:01:04Z",
+                "owner": "OPCFoundation",
+                "repo": "UA-CloudLibrary",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OPC UA CloudViewer",
+              "description": "Make the XML NodeSets browsable, by DigitalTwinConsortium (Source).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 411142658,
+                "language": "JavaScript",
+                "last_commit": "2025-02-11T08:26:40Z",
+                "owner": "OPCFoundation",
+                "repo": "UA-CloudViewer",
+                "stars": 40
+              }
+            }
+          ],
+          "description": "Tools available online to help with OPC UA components or Information Models.",
+          "node_type": "group",
+          "title": "Online Tools"
+        }
+      ],
       "title": "Software"
-    },
-    {
-      "description": "SDKs to create OPC UA components.",
-      "items": [],
-      "title": "SDKs and Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ASNeG",
-          "description": "Server/Client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-02-02T18:34:35Z",
-            "owner": "ASNeG",
-            "repo": "OpcUaStack",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uaf",
-          "description": "Client (wrapper over proprietary sdk)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-10T12:34:03Z",
-            "owner": "uaf",
-            "repo": "uaf",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NodesetLoader",
-          "description": "Library for importing nodesets in xml schema, add nodeset import to open62541 [MPL-2.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-04-13T18:24:45Z",
-            "owner": "matkonnerth",
-            "repo": "nodesetLoader",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "C"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "freeopcua",
-          "description": "Open Source C++ OPC-UA Server and Client Library. [LGPL-3.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-08-14T15:15:14Z",
-            "owner": "FreeOpcUa",
-            "repo": "freeopcua",
-            "stars": 786
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QUaServer",
-          "description": "Qt C++ wrapper for open62541 server stack. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-02-13T18:21:05Z",
-            "owner": "QUaServer",
-            "repo": "QUaServer",
-            "stars": 121
-          }
-        }
-      ],
-      "title": "C++"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "UA.NET Standard",
-          "description": "Server/Client - Official OPC UA .NET Standard Stack from the OPC Foundation. [GPL-2.0 / RCL dual licensed]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T22:00:04Z",
-            "owner": "OPCFoundation",
-            "repo": "UA-.NETStandard",
-            "stars": 2371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "opc-ua-client",
-          "description": "only Client [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-09-01T19:23:16Z",
-            "owner": "convertersystems",
-            "repo": "opc-ua-client",
-            "stars": 466
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LibUA",
-          "description": "Server/Client [Apache-2.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-14T21:39:13Z",
-            "owner": "nauful",
-            "repo": "LibUA",
-            "stars": 342
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "h-opc",
-          "description": "OPC client made simpler, for UA and DA [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2020-01-23T14:29:43Z",
-            "owner": "hylasoft-usa",
-            "repo": "h-opc",
-            "stars": 316
-          }
-        }
-      ],
-      "title": "C#"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Python FreeOpcUa",
-          "description": "Server /Client [LGPL-3.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-05-18T14:28:47Z",
-            "owner": "FreeOpcUa",
-            "repo": "python-opcua",
-            "stars": 1489
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "opcua-asyncio",
-          "description": "OPC UA / IEC 62541 Client and Server for Python >= 3.7 and pypy3. [LGPL-3.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T13:16:52Z",
-            "owner": "FreeOpcUa",
-            "repo": "opcua-asyncio",
-            "stars": 1459
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "uaf",
-          "description": "Client (wrapper over proprietary sdk) [LGPL-3.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-07-10T12:34:03Z",
-            "owner": "uaf",
-            "repo": "uaf",
-            "stars": 110
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "locka99/opcua",
-          "description": "OPC UA server / client API implementation for Rust. [MPL-2.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-04-08T02:12:35Z",
-            "owner": "locka99",
-            "repo": "opcua",
-            "stars": 574
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HMIProject/open62541",
-          "description": "crate provides high-level, safe bindings for the C99 library open62541. [MPL-2.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-30T12:45:23Z",
-            "owner": "HMIProject",
-            "repo": "open62541",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gopcua/opcua",
-          "description": "Server/Client - A native Go implementation of the OPC/UA Binary Protocol. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-09T16:47:19Z",
-            "owner": "gopcua",
-            "repo": "opcua",
-            "stars": 1055
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awcullen/opcua",
-          "description": "Server/Client. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-08T20:36:22Z",
-            "owner": "awcullen",
-            "repo": "opcua",
-            "stars": 112
-          }
-        }
-      ],
-      "title": "Golang"
-    },
-    {
-      "description": "Test Clients to check server implementations manually.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FreeOpcUA",
-          "description": "OpenSource Client based on python. [GPL-3.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-05T06:36:04Z",
-            "owner": "FreeOpcUa",
-            "repo": "opcua-client-gui",
-            "stars": 667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "opcilloscope",
-          "description": "Lightweight, cross-platform terminal-based OPC UA client with real-time oscilloscope view. Keyboard and mouse friendly. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-16T09:25:08Z",
-            "owner": "SquareWaveSystems",
-            "repo": "opcilloscope",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OPC UA Browser",
-          "description": "Qt-based Mobile app based on open62541/Qt OPC UA. [GPL-3.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-06-11T07:48:56Z",
-            "owner": "basysKom",
-            "repo": "opcua_browser",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OPC UA Test tool",
-          "description": "Automate OPC UA server performance testing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-18T13:03:55Z",
-            "owner": "matkonnerth",
-            "repo": "opcuatesttool",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Test Clients"
-    },
-    {
-      "description": "Tools to create OPC UA Information Models.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FreeOpcUa/opcua-modeler",
-          "description": "Free OPC UA Modeler is a tool for designing OPC UA address spaces [GPL-3.0]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-13T10:16:50Z",
-            "owner": "FreeOpcUa",
-            "repo": "opcua-modeler",
-            "stars": 259
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UA-ModelCompiler",
-          "description": "Tool to convert OPC UA Information models in Model.xml format to NodeSet2.xml Format. [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-01T00:16:24Z",
-            "owner": "OPCFoundation",
-            "repo": "UA-ModelCompiler",
-            "stars": 172
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NodeDoc",
-          "description": "Tool for documentation and comparing nodesets [MIT]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-03-20T09:18:21Z",
-            "owner": "software-competence-center-hagenberg",
-            "repo": "NodeDoc",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UML2OPCUA",
-          "description": "Papyrus plugin to model OPC UA Information models with Papyrus",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-12-07T12:08:58Z",
-            "owner": "model-UA",
-            "repo": "papyrus-opcua-plugin",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Modelling Tools"
-    },
-    {
-      "description": "Tools available online to help with OPC UA components or Information Models.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OPC UA for Cloud Library",
-          "description": "OPC UA Information Model database with a REST and GraphQL interface (Source)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-22T13:01:04Z",
-            "owner": "OPCFoundation",
-            "repo": "UA-CloudLibrary",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OPC UA CloudViewer",
-          "description": "Make the XML NodeSets browsable, by DigitalTwinConsortium (Source).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-02-11T08:26:40Z",
-            "owner": "OPCFoundation",
-            "repo": "UA-CloudViewer",
-            "stars": 40
-          }
-        }
-      ],
-      "title": "Online Tools"
     },
     {
       "description": "Implementations of Example, Simulation and SampleServer that are running on the internet or can be run local.",
@@ -443,11 +476,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16153672,
             "language": "TypeScript",
             "last_commit": "2026-08-17T05:46:55Z",
             "owner": "node-opcua",
             "repo": "node-opcua",
-            "stars": 1653
+            "stars": 1654
           }
         },
         {
@@ -457,11 +491,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58208693,
             "language": "Java",
             "last_commit": "2026-08-16T20:13:38Z",
             "owner": "eclipse-milo",
             "repo": "milo",
-            "stars": 1381
+            "stars": 1382
           }
         },
         {
@@ -471,8 +506,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153405532,
             "language": "C#",
-            "last_commit": "2026-08-14T11:31:03Z",
+            "last_commit": "2026-08-19T09:39:41Z",
             "owner": "Azure-Samples",
             "repo": "iot-edge-opc-plc",
             "stars": 293
@@ -485,8 +521,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-18T06:46:43Z",
+            "last_commit": "2026-08-18T20:07:42Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
@@ -499,6 +536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402656225,
             "language": "TypeScript",
             "last_commit": "2026-08-03T13:09:39Z",
             "owner": "umati",
@@ -513,6 +551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144198068,
             "language": "Java",
             "last_commit": "2026-07-12T12:31:39Z",
             "owner": "MileBuurmeijer",
@@ -527,8 +566,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 375278079,
             "language": "Python",
-            "last_commit": "2026-08-17T21:52:57Z",
+            "last_commit": "2026-08-18T11:57:48Z",
             "owner": "umati",
             "repo": "Sample-Server-asyncio",
             "stars": 14
@@ -547,6 +587,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61950846,
             "language": "C#",
             "last_commit": "2023-01-16T20:43:34Z",
             "owner": "convertersystems",
@@ -561,8 +602,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-18T06:46:43Z",
+            "last_commit": "2026-08-18T20:07:42Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
@@ -575,6 +617,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368626494,
             "language": "C#",
             "last_commit": "2026-07-22T13:01:04Z",
             "owner": "OPCFoundation",
@@ -589,6 +632,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369797694,
             "language": "JavaScript",
             "last_commit": "2025-02-13T21:32:22Z",
             "owner": "OPCFoundation",
@@ -603,6 +647,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402656225,
             "language": "TypeScript",
             "last_commit": "2026-08-03T13:09:39Z",
             "owner": "umati",
@@ -617,6 +662,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369765872,
             "language": "C#",
             "last_commit": "2023-11-24T14:58:27Z",
             "owner": "barnstee",
@@ -631,8 +677,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 375278079,
             "language": "Python",
-            "last_commit": "2026-08-17T21:52:57Z",
+            "last_commit": "2026-08-18T11:57:48Z",
             "owner": "umati",
             "repo": "Sample-Server-asyncio",
             "stars": 14
@@ -645,6 +692,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441151612,
             "language": "Shell",
             "last_commit": "2023-09-26T14:01:31Z",
             "owner": "OPC-Router",
@@ -659,6 +707,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243046100,
             "language": "C++",
             "last_commit": "2021-04-24T17:30:35Z",
             "owner": "opcua-skills",
@@ -673,8 +722,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 564042082,
             "language": "Python",
-            "last_commit": "2026-08-17T15:13:09Z",
+            "last_commit": "2026-08-19T07:45:02Z",
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
             "stars": 7
@@ -687,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407841758,
             "language": "JavaScript",
             "last_commit": "2021-12-20T15:37:07Z",
             "owner": "BoBiene",
@@ -701,6 +752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 580314849,
             "language": "Makefile",
             "last_commit": "2026-04-16T07:09:37Z",
             "owner": "ntd",
@@ -715,6 +767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 791736938,
             "language": "TypeScript",
             "last_commit": "2026-08-16T20:25:36Z",
             "owner": "AndreasHeine",
@@ -729,6 +782,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 447661637,
             "language": "Java",
             "last_commit": "2022-08-26T05:26:54Z",
             "owner": "arnoweiss",
@@ -743,6 +797,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 777156744,
             "language": "C#",
             "last_commit": "2024-03-25T10:15:10Z",
             "owner": "umati",
@@ -754,12 +809,7 @@
       "title": "Server and client applications"
     },
     {
-      "description": "coming soon",
-      "items": [],
-      "title": "Gateways (OPC Classic)"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -768,11 +818,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15333809,
             "language": "C",
             "last_commit": "2026-08-17T20:17:22Z",
             "owner": "open62541",
             "repo": "open62541",
-            "stars": 3209
+            "stars": 3210
           }
         },
         {
@@ -782,6 +833,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58220022,
             "language": null,
             "last_commit": "2023-12-21T18:14:06Z",
             "owner": "Agile-IoT",
@@ -791,20 +843,10 @@
         }
       ],
       "title": "Related Lists"
-    },
-    {
-      "description": "Contributions are welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "CC0 1.0 Universal",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:41:34.073Z",
+    "last_updated": "2026-08-19T09:42:25.588Z",
     "original_repository": "iswunistuttgart/awesome-opcua",
     "original_repository_sha": "6591c8d9e6b73675a27c68f2d1668e1e2884c9b3",
     "enhanced_repository": "enhansome/enhansome-opcua",

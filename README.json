@@ -105,7 +105,7 @@
                     "archived": false,
                     "id": 51595028,
                     "language": "C#",
-                    "last_commit": "2026-08-21T07:26:20Z",
+                    "last_commit": "2026-08-21T20:35:15Z",
                     "owner": "OPCFoundation",
                     "repo": "UA-.NETStandard",
                     "stars": 2372
@@ -321,7 +321,7 @@
                 "last_commit": "2026-07-16T09:25:08Z",
                 "owner": "SquareWaveSystems",
                 "repo": "opcilloscope",
-                "stars": 145
+                "stars": 146
               }
             },
             {
@@ -523,7 +523,7 @@
             "archived": false,
             "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-20T13:03:16Z",
+            "last_commit": "2026-08-21T21:42:09Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
@@ -538,7 +538,7 @@
             "archived": false,
             "id": 402656225,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:19:23Z",
+            "last_commit": "2026-08-21T10:12:55Z",
             "owner": "umati",
             "repo": "Sample-Server-node-opcua",
             "stars": 21
@@ -604,7 +604,7 @@
             "archived": false,
             "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-20T13:03:16Z",
+            "last_commit": "2026-08-21T21:42:09Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
@@ -649,7 +649,7 @@
             "archived": false,
             "id": 402656225,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T09:19:23Z",
+            "last_commit": "2026-08-21T10:12:55Z",
             "owner": "umati",
             "repo": "Sample-Server-node-opcua",
             "stars": 21
@@ -724,7 +724,7 @@
             "archived": false,
             "id": 564042082,
             "language": "Python",
-            "last_commit": "2026-08-21T09:37:04Z",
+            "last_commit": "2026-08-22T08:53:16Z",
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
             "stars": 7
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:46:10.287Z",
+    "last_updated": "2026-08-22T09:35:15.920Z",
     "original_repository": "iswunistuttgart/awesome-opcua",
     "original_repository_id": 315988202,
     "original_repository_sha": "6591c8d9e6b73675a27c68f2d1668e1e2884c9b3",

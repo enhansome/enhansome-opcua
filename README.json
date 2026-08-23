@@ -105,10 +105,10 @@
                     "archived": false,
                     "id": 51595028,
                     "language": "C#",
-                    "last_commit": "2026-08-21T20:35:15Z",
+                    "last_commit": "2026-08-23T08:46:01Z",
                     "owner": "OPCFoundation",
                     "repo": "UA-.NETStandard",
-                    "stars": 2372
+                    "stars": 2373
                   }
                 },
                 {
@@ -123,7 +123,7 @@
                     "last_commit": "2025-09-01T19:23:16Z",
                     "owner": "convertersystems",
                     "repo": "opc-ua-client",
-                    "stars": 466
+                    "stars": 467
                   }
                 },
                 {
@@ -264,7 +264,7 @@
                     "last_commit": "2026-08-09T16:47:19Z",
                     "owner": "gopcua",
                     "repo": "opcua",
-                    "stars": 1055
+                    "stars": 1056
                   }
                 },
                 {
@@ -437,7 +437,7 @@
                 "archived": false,
                 "id": 368626494,
                 "language": "C#",
-                "last_commit": "2026-07-22T13:01:04Z",
+                "last_commit": "2026-08-22T23:15:59Z",
                 "owner": "OPCFoundation",
                 "repo": "UA-CloudLibrary",
                 "stars": 49
@@ -619,7 +619,7 @@
             "archived": false,
             "id": 368626494,
             "language": "C#",
-            "last_commit": "2026-07-22T13:01:04Z",
+            "last_commit": "2026-08-22T23:15:59Z",
             "owner": "OPCFoundation",
             "repo": "UA-CloudLibrary",
             "stars": 49
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:35:15.920Z",
+    "last_updated": "2026-08-23T09:36:07.640Z",
     "original_repository": "iswunistuttgart/awesome-opcua",
     "original_repository_id": 315988202,
     "original_repository_sha": "6591c8d9e6b73675a27c68f2d1668e1e2884c9b3",

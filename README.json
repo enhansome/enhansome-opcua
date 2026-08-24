@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "description": "Released OPC UA Specifications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OPC Foundation Git repository of NodeSets",
+          "description": "easy way to get the nodeset files without registration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40378911,
+            "language": "C#",
+            "last_commit": "2026-08-18T08:22:32Z",
+            "owner": "OPCFoundation",
+            "repo": "UA-Nodeset",
+            "stars": 277
+          }
+        }
+      ],
+      "title": "OPC UA Standards Documents"
+    },
+    {
+      "description": "Information material apart from the standards documents.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OPC UA for Devs in 10 Minutes",
+              "description": "short presentation for developers to grasp the concept of OPC UA information modelling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623814733,
+                "language": "C#",
+                "last_commit": "2026-08-21T18:14:29Z",
+                "owner": "umati",
+                "repo": "hackathon",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Articles"
+        }
+      ],
+      "title": "Resources"
+    },
+    {
       "description": "Software for creating OPC UA Servers, Clients, Publishers, Subscribers or Information Models.",
       "items": [
         {
@@ -165,6 +214,50 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "HBM/opcua",
+                  "description": "only Client [MIT]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 245996259,
+                    "language": "TypeScript",
+                    "last_commit": "2023-07-18T21:13:43Z",
+                    "owner": "HBM",
+                    "repo": "opcua",
+                    "stars": 44
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "JavaScript / TypeScript"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Eclipse Milo™",
+                  "description": "Server/Client - Java open source implementation of OPC UA (IEC 62541). [EPL-2.0]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 58208693,
+                    "language": "Java",
+                    "last_commit": "2026-08-19T12:19:12Z",
+                    "owner": "eclipse-milo",
+                    "repo": "milo",
+                    "stars": 1382
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Java"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "Python FreeOpcUa",
                   "description": "Server /Client [LGPL-3.0]",
                   "children": [],
@@ -187,7 +280,7 @@
                     "archived": false,
                     "id": 143260613,
                     "language": "Python",
-                    "last_commit": "2026-08-16T13:16:52Z",
+                    "last_commit": "2026-08-24T12:47:48Z",
                     "owner": "FreeOpcUa",
                     "repo": "opcua-asyncio",
                     "stars": 1465
@@ -430,6 +523,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "prometheus_asyncua_exporter",
+              "description": "OPC UA exporter for Prometheus [Apache-2.0]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 795437567,
+                "language": "Python",
+                "last_commit": "2026-08-11T05:13:41Z",
+                "owner": "ainglessi",
+                "repo": "prometheus_asyncua_exporter",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Monitoring Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "OPC UA for Cloud Library",
               "description": "OPC UA Information Model database with a REST and GraphQL interface (Source)",
               "children": [],
@@ -478,7 +593,7 @@
             "archived": false,
             "id": 16153672,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:57:22Z",
+            "last_commit": "2026-08-24T13:22:36Z",
             "owner": "node-opcua",
             "repo": "node-opcua",
             "stars": 1654
@@ -523,7 +638,7 @@
             "archived": false,
             "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-21T21:42:09Z",
+            "last_commit": "2026-08-24T13:50:29Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
@@ -604,7 +719,7 @@
             "archived": false,
             "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-21T21:42:09Z",
+            "last_commit": "2026-08-24T13:50:29Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
@@ -724,7 +839,7 @@
             "archived": false,
             "id": 564042082,
             "language": "Python",
-            "last_commit": "2026-08-24T07:25:02Z",
+            "last_commit": "2026-08-24T10:57:31Z",
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
             "stars": 7
@@ -846,7 +961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:57:23.436Z",
+    "last_updated": "2026-08-24T14:36:52.302Z",
     "original_repository": "iswunistuttgart/awesome-opcua",
     "original_repository_id": 315988202,
     "original_repository_sha": "6591c8d9e6b73675a27c68f2d1668e1e2884c9b3",

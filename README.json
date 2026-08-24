@@ -105,10 +105,10 @@
                     "archived": false,
                     "id": 51595028,
                     "language": "C#",
-                    "last_commit": "2026-08-23T08:46:01Z",
+                    "last_commit": "2026-08-24T04:35:08Z",
                     "owner": "OPCFoundation",
                     "repo": "UA-.NETStandard",
-                    "stars": 2373
+                    "stars": 2374
                   }
                 },
                 {
@@ -264,7 +264,7 @@
                     "last_commit": "2026-08-09T16:47:19Z",
                     "owner": "gopcua",
                     "repo": "opcua",
-                    "stars": 1056
+                    "stars": 1057
                   }
                 },
                 {
@@ -437,7 +437,7 @@
                 "archived": false,
                 "id": 368626494,
                 "language": "C#",
-                "last_commit": "2026-08-22T23:15:59Z",
+                "last_commit": "2026-08-23T22:52:42Z",
                 "owner": "OPCFoundation",
                 "repo": "UA-CloudLibrary",
                 "stars": 49
@@ -478,7 +478,7 @@
             "archived": false,
             "id": 16153672,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T08:58:22Z",
+            "last_commit": "2026-08-24T09:57:22Z",
             "owner": "node-opcua",
             "repo": "node-opcua",
             "stars": 1654
@@ -619,7 +619,7 @@
             "archived": false,
             "id": 368626494,
             "language": "C#",
-            "last_commit": "2026-08-22T23:15:59Z",
+            "last_commit": "2026-08-23T22:52:42Z",
             "owner": "OPCFoundation",
             "repo": "UA-CloudLibrary",
             "stars": 49
@@ -724,7 +724,7 @@
             "archived": false,
             "id": 564042082,
             "language": "Python",
-            "last_commit": "2026-08-22T08:53:16Z",
+            "last_commit": "2026-08-24T07:25:02Z",
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
             "stars": 7
@@ -820,10 +820,10 @@
             "archived": false,
             "id": 15333809,
             "language": "C",
-            "last_commit": "2026-08-20T12:56:48Z",
+            "last_commit": "2026-08-24T00:32:38Z",
             "owner": "open62541",
             "repo": "open62541",
-            "stars": 3213
+            "stars": 3215
           }
         },
         {
@@ -846,7 +846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:36:07.640Z",
+    "last_updated": "2026-08-24T09:57:23.436Z",
     "original_repository": "iswunistuttgart/awesome-opcua",
     "original_repository_id": 315988202,
     "original_repository_sha": "6591c8d9e6b73675a27c68f2d1668e1e2884c9b3",

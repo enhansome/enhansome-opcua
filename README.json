@@ -154,7 +154,7 @@
                     "archived": false,
                     "id": 51595028,
                     "language": "C#",
-                    "last_commit": "2026-08-24T04:35:08Z",
+                    "last_commit": "2026-08-24T19:32:51Z",
                     "owner": "OPCFoundation",
                     "repo": "UA-.NETStandard",
                     "stars": 2374
@@ -399,7 +399,7 @@
                 "last_commit": "2026-08-05T06:36:04Z",
                 "owner": "FreeOpcUa",
                 "repo": "opcua-client-gui",
-                "stars": 668
+                "stars": 669
               }
             },
             {
@@ -593,10 +593,10 @@
             "archived": false,
             "id": 16153672,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:22:36Z",
+            "last_commit": "2026-08-25T05:51:12Z",
             "owner": "node-opcua",
             "repo": "node-opcua",
-            "stars": 1654
+            "stars": 1655
           }
         },
         {
@@ -839,7 +839,7 @@
             "archived": false,
             "id": 564042082,
             "language": "Python",
-            "last_commit": "2026-08-24T10:57:31Z",
+            "last_commit": "2026-08-25T06:24:29Z",
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
             "stars": 7
@@ -935,7 +935,7 @@
             "archived": false,
             "id": 15333809,
             "language": "C",
-            "last_commit": "2026-08-24T00:32:38Z",
+            "last_commit": "2026-08-25T01:06:00Z",
             "owner": "open62541",
             "repo": "open62541",
             "stars": 3215
@@ -961,7 +961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:36:52.302Z",
+    "last_updated": "2026-08-25T06:27:18.944Z",
     "original_repository": "iswunistuttgart/awesome-opcua",
     "original_repository_id": 315988202,
     "original_repository_sha": "6591c8d9e6b73675a27c68f2d1668e1e2884c9b3",

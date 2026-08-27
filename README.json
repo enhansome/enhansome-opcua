@@ -15,7 +15,7 @@
             "last_commit": "2026-08-18T08:22:32Z",
             "owner": "OPCFoundation",
             "repo": "UA-Nodeset",
-            "stars": 277
+            "stars": 278
           }
         }
       ],
@@ -35,7 +35,7 @@
                 "archived": false,
                 "id": 623814733,
                 "language": "C#",
-                "last_commit": "2026-08-25T21:06:39Z",
+                "last_commit": "2026-08-27T01:31:12Z",
                 "owner": "umati",
                 "repo": "hackathon",
                 "stars": 3
@@ -154,7 +154,7 @@
                     "archived": false,
                     "id": 51595028,
                     "language": "C#",
-                    "last_commit": "2026-08-26T02:11:35Z",
+                    "last_commit": "2026-08-27T07:59:53Z",
                     "owner": "OPCFoundation",
                     "repo": "UA-.NETStandard",
                     "stars": 2375
@@ -187,7 +187,7 @@
                     "last_commit": "2026-08-18T11:38:56Z",
                     "owner": "nauful",
                     "repo": "LibUA",
-                    "stars": 342
+                    "stars": 343
                   }
                 },
                 {
@@ -246,7 +246,7 @@
                     "last_commit": "2026-08-19T12:19:12Z",
                     "owner": "eclipse-milo",
                     "repo": "milo",
-                    "stars": 1382
+                    "stars": 1383
                   }
                 }
               ],
@@ -280,10 +280,10 @@
                     "archived": false,
                     "id": 143260613,
                     "language": "Python",
-                    "last_commit": "2026-08-24T12:47:48Z",
+                    "last_commit": "2026-08-27T11:12:20Z",
                     "owner": "FreeOpcUa",
                     "repo": "opcua-asyncio",
-                    "stars": 1468
+                    "stars": 1469
                   }
                 },
                 {
@@ -481,7 +481,7 @@
                 "last_commit": "2026-08-01T00:16:24Z",
                 "owner": "OPCFoundation",
                 "repo": "UA-ModelCompiler",
-                "stars": 171
+                "stars": 172
               }
             },
             {
@@ -593,7 +593,7 @@
             "archived": false,
             "id": 16153672,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T09:46:32Z",
+            "last_commit": "2026-08-27T11:13:02Z",
             "owner": "node-opcua",
             "repo": "node-opcua",
             "stars": 1654
@@ -611,7 +611,7 @@
             "last_commit": "2026-08-19T12:19:12Z",
             "owner": "eclipse-milo",
             "repo": "milo",
-            "stars": 1382
+            "stars": 1383
           }
         },
         {
@@ -638,7 +638,7 @@
             "archived": false,
             "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-26T08:55:32Z",
+            "last_commit": "2026-08-27T11:41:39Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
@@ -719,7 +719,7 @@
             "archived": false,
             "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-26T08:55:32Z",
+            "last_commit": "2026-08-27T11:41:39Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
@@ -839,7 +839,7 @@
             "archived": false,
             "id": 564042082,
             "language": "Python",
-            "last_commit": "2026-08-26T07:18:42Z",
+            "last_commit": "2026-08-27T10:55:05Z",
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
             "stars": 7
@@ -935,10 +935,10 @@
             "archived": false,
             "id": 15333809,
             "language": "C",
-            "last_commit": "2026-08-25T22:17:52Z",
+            "last_commit": "2026-08-26T22:28:23Z",
             "owner": "open62541",
             "repo": "open62541",
-            "stars": 3215
+            "stars": 3217
           }
         },
         {
@@ -961,9 +961,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:51:51.832Z",
-    "original_repository": "iswunistuttgart/awesome-opcua",
-    "original_repository_id": 315988202,
+    "last_updated": "2026-08-27T11:56:17.950Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 315988202,
+      "language": null,
+      "last_commit": "2026-04-28T18:45:23Z",
+      "owner": "iswunistuttgart",
+      "repo": "awesome-opcua",
+      "stars": 157
+    },
     "original_repository_sha": "6591c8d9e6b73675a27c68f2d1668e1e2884c9b3",
     "enhanced_repository": "enhansome/enhansome-opcua",
     "enhanced_repository_description": null,

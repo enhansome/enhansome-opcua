@@ -35,7 +35,7 @@
                 "archived": false,
                 "id": 623814733,
                 "language": "C#",
-                "last_commit": "2026-08-27T01:31:12Z",
+                "last_commit": "2026-08-27T12:16:24Z",
                 "owner": "umati",
                 "repo": "hackathon",
                 "stars": 3
@@ -154,7 +154,7 @@
                     "archived": false,
                     "id": 51595028,
                     "language": "C#",
-                    "last_commit": "2026-08-27T07:59:53Z",
+                    "last_commit": "2026-08-27T17:37:26Z",
                     "owner": "OPCFoundation",
                     "repo": "UA-.NETStandard",
                     "stars": 2375
@@ -280,7 +280,7 @@
                     "archived": false,
                     "id": 143260613,
                     "language": "Python",
-                    "last_commit": "2026-08-27T11:12:20Z",
+                    "last_commit": "2026-08-27T14:55:05Z",
                     "owner": "FreeOpcUa",
                     "repo": "opcua-asyncio",
                     "stars": 1469
@@ -593,10 +593,10 @@
             "archived": false,
             "id": 16153672,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:13:02Z",
+            "last_commit": "2026-08-27T19:23:26Z",
             "owner": "node-opcua",
             "repo": "node-opcua",
-            "stars": 1654
+            "stars": 1655
           }
         },
         {
@@ -839,7 +839,7 @@
             "archived": false,
             "id": 564042082,
             "language": "Python",
-            "last_commit": "2026-08-27T10:55:05Z",
+            "last_commit": "2026-08-27T18:35:47Z",
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
             "stars": 7
@@ -935,10 +935,10 @@
             "archived": false,
             "id": 15333809,
             "language": "C",
-            "last_commit": "2026-08-26T22:28:23Z",
+            "last_commit": "2026-08-27T12:36:20Z",
             "owner": "open62541",
             "repo": "open62541",
-            "stars": 3217
+            "stars": 3218
           }
         },
         {
@@ -961,7 +961,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:17.950Z",
+    "last_updated": "2026-08-27T19:47:48.410Z",
     "original_repository_info": {
       "archived": false,
       "id": 315988202,

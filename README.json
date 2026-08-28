@@ -16,7 +16,8 @@
             "owner": "OPCFoundation",
             "repo": "UA-Nodeset",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         }
       ],
       "title": "OPC UA Standards Documents"
@@ -35,11 +36,12 @@
                 "archived": false,
                 "id": 623814733,
                 "language": "C#",
-                "last_commit": "2026-08-27T12:16:24Z",
+                "last_commit": "2026-08-28T11:31:03Z",
                 "owner": "umati",
                 "repo": "hackathon",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             }
           ],
           "description": null,
@@ -69,7 +71,8 @@
                     "owner": "ASNeG",
                     "repo": "OpcUaStack",
                     "stars": 136
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -84,7 +87,8 @@
                     "owner": "uaf",
                     "repo": "uaf",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -99,7 +103,8 @@
                     "owner": "matkonnerth",
                     "repo": "nodesetLoader",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 }
               ],
               "description": null,
@@ -120,8 +125,9 @@
                     "last_commit": "2024-08-14T15:15:14Z",
                     "owner": "FreeOpcUa",
                     "repo": "freeopcua",
-                    "stars": 786
-                  }
+                    "stars": 787
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -136,7 +142,8 @@
                     "owner": "QUaServer",
                     "repo": "QUaServer",
                     "stars": 121
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 }
               ],
               "description": null,
@@ -154,11 +161,12 @@
                     "archived": false,
                     "id": 51595028,
                     "language": "C#",
-                    "last_commit": "2026-08-27T17:37:26Z",
+                    "last_commit": "2026-08-28T20:33:08Z",
                     "owner": "OPCFoundation",
                     "repo": "UA-.NETStandard",
-                    "stars": 2375
-                  }
+                    "stars": 2376
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -173,7 +181,8 @@
                     "owner": "convertersystems",
                     "repo": "opc-ua-client",
                     "stars": 467
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -188,7 +197,8 @@
                     "owner": "nauful",
                     "repo": "LibUA",
                     "stars": 343
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -203,7 +213,8 @@
                     "owner": "hylasoft-usa",
                     "repo": "h-opc",
                     "stars": 316
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 }
               ],
               "description": null,
@@ -225,7 +236,8 @@
                     "owner": "HBM",
                     "repo": "opcua",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 }
               ],
               "description": null,
@@ -247,7 +259,8 @@
                     "owner": "eclipse-milo",
                     "repo": "milo",
                     "stars": 1383
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 }
               ],
               "description": null,
@@ -269,7 +282,8 @@
                     "owner": "FreeOpcUa",
                     "repo": "python-opcua",
                     "stars": 1489
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -284,7 +298,8 @@
                     "owner": "FreeOpcUa",
                     "repo": "opcua-asyncio",
                     "stars": 1469
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -299,7 +314,8 @@
                     "owner": "uaf",
                     "repo": "uaf",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 }
               ],
               "description": null,
@@ -321,7 +337,8 @@
                     "owner": "locka99",
                     "repo": "opcua",
                     "stars": 574
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -336,7 +353,8 @@
                     "owner": "HMIProject",
                     "repo": "open62541",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 }
               ],
               "description": null,
@@ -358,7 +376,8 @@
                     "owner": "gopcua",
                     "repo": "opcua",
                     "stars": 1057
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 },
                 {
                   "node_type": "item",
@@ -373,7 +392,8 @@
                     "owner": "awcullen",
                     "repo": "opcua",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:48:51.280Z"
                 }
               ],
               "description": null,
@@ -400,7 +420,8 @@
                 "owner": "FreeOpcUa",
                 "repo": "opcua-client-gui",
                 "stars": 670
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             },
             {
               "node_type": "item",
@@ -415,7 +436,8 @@
                 "owner": "SquareWaveSystems",
                 "repo": "opcilloscope",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             },
             {
               "node_type": "item",
@@ -430,7 +452,8 @@
                 "owner": "basysKom",
                 "repo": "opcua_browser",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             },
             {
               "node_type": "item",
@@ -445,7 +468,8 @@
                 "owner": "matkonnerth",
                 "repo": "opcuatesttool",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             }
           ],
           "description": "Test Clients to check server implementations manually.",
@@ -467,7 +491,8 @@
                 "owner": "FreeOpcUa",
                 "repo": "opcua-modeler",
                 "stars": 259
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             },
             {
               "node_type": "item",
@@ -482,7 +507,8 @@
                 "owner": "OPCFoundation",
                 "repo": "UA-ModelCompiler",
                 "stars": 172
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             },
             {
               "node_type": "item",
@@ -497,7 +523,8 @@
                 "owner": "software-competence-center-hagenberg",
                 "repo": "NodeDoc",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             },
             {
               "node_type": "item",
@@ -512,7 +539,8 @@
                 "owner": "model-UA",
                 "repo": "papyrus-opcua-plugin",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             }
           ],
           "description": "Tools to create OPC UA Information Models.",
@@ -534,7 +562,8 @@
                 "owner": "ainglessi",
                 "repo": "prometheus_asyncua_exporter",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             }
           ],
           "description": null,
@@ -556,7 +585,8 @@
                 "owner": "OPCFoundation",
                 "repo": "UA-CloudLibrary",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             },
             {
               "node_type": "item",
@@ -571,7 +601,8 @@
                 "owner": "OPCFoundation",
                 "repo": "UA-CloudViewer",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T20:48:51.280Z"
             }
           ],
           "description": "Tools available online to help with OPC UA components or Information Models.",
@@ -593,11 +624,12 @@
             "archived": false,
             "id": 16153672,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:23:26Z",
+            "last_commit": "2026-08-28T20:04:36Z",
             "owner": "node-opcua",
             "repo": "node-opcua",
             "stars": 1655
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -612,7 +644,8 @@
             "owner": "eclipse-milo",
             "repo": "milo",
             "stars": 1383
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -627,7 +660,8 @@
             "owner": "Azure-Samples",
             "repo": "iot-edge-opc-plc",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -638,11 +672,12 @@
             "archived": false,
             "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-27T11:41:39Z",
+            "last_commit": "2026-08-28T13:58:35Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -653,11 +688,12 @@
             "archived": false,
             "id": 402656225,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T10:12:55Z",
+            "last_commit": "2026-08-28T14:08:02Z",
             "owner": "umati",
             "repo": "Sample-Server-node-opcua",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -672,7 +708,8 @@
             "owner": "MileBuurmeijer",
             "repo": "OPCUA-Player",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -687,7 +724,8 @@
             "owner": "umati",
             "repo": "Sample-Server-asyncio",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         }
       ],
       "title": "Server Simulations"
@@ -708,7 +746,8 @@
             "owner": "convertersystems",
             "repo": "opc-ua-samples",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -719,11 +758,12 @@
             "archived": false,
             "id": 308618820,
             "language": "C++",
-            "last_commit": "2026-08-27T11:41:39Z",
+            "last_commit": "2026-08-28T13:58:35Z",
             "owner": "umati",
             "repo": "Sample-Server",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -738,7 +778,8 @@
             "owner": "OPCFoundation",
             "repo": "UA-CloudLibrary",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -753,7 +794,8 @@
             "owner": "OPCFoundation",
             "repo": "UA-CloudDashboard",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -764,11 +806,12 @@
             "archived": false,
             "id": 402656225,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T10:12:55Z",
+            "last_commit": "2026-08-28T14:08:02Z",
             "owner": "umati",
             "repo": "Sample-Server-node-opcua",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -783,7 +826,8 @@
             "owner": "barnstee",
             "repo": "MQTTPublisherMVP",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -798,7 +842,8 @@
             "owner": "umati",
             "repo": "Sample-Server-asyncio",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -813,7 +858,8 @@
             "owner": "OPC-Router",
             "repo": "opc-ua-umati-mssql-grafana",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -828,7 +874,8 @@
             "owner": "opcua-skills",
             "repo": "plug-and-produce",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -839,11 +886,12 @@
             "archived": false,
             "id": 564042082,
             "language": "Python",
-            "last_commit": "2026-08-27T18:35:47Z",
+            "last_commit": "2026-08-28T11:49:28Z",
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -858,7 +906,8 @@
             "owner": "BoBiene",
             "repo": "OPCModbusUAServer",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -873,7 +922,8 @@
             "owner": "ntd",
             "repo": "opcua-primer",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -884,11 +934,12 @@
             "archived": false,
             "id": 791736938,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T15:05:17Z",
+            "last_commit": "2026-08-27T20:08:49Z",
             "owner": "AndreasHeine",
             "repo": "opcua-machinery-client",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -903,7 +954,8 @@
             "owner": "arnoweiss",
             "repo": "opcua-transformer",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -918,7 +970,8 @@
             "owner": "umati",
             "repo": "OPCUA2AAS",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         }
       ],
       "title": "Server and client applications"
@@ -935,11 +988,12 @@
             "archived": false,
             "id": 15333809,
             "language": "C",
-            "last_commit": "2026-08-27T12:36:20Z",
+            "last_commit": "2026-08-28T17:13:19Z",
             "owner": "open62541",
             "repo": "open62541",
-            "stars": 3218
-          }
+            "stars": 3219
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         },
         {
           "node_type": "item",
@@ -953,15 +1007,16 @@
             "last_commit": "2023-12-21T18:14:06Z",
             "owner": "Agile-IoT",
             "repo": "awesome-open-iot",
-            "stars": 705
-          }
+            "stars": 706
+          },
+          "first_seen": "2026-08-28T20:48:51.280Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:47:48.410Z",
+    "last_updated": "2026-08-28T20:48:51.280Z",
     "original_repository_info": {
       "archived": false,
       "id": 315988202,

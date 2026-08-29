@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UA Nodeset",
+            "homepage": null,
             "id": 40378911,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-08-18T08:22:32Z",
+            "open_issues": 17,
             "owner": "OPCFoundation",
             "repo": "UA-Nodeset",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "companion-specification",
+              "normative-files",
+              "opc-ua-specifications",
+              "uanodeset"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         }
@@ -34,12 +44,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 623814733,
                 "language": "C#",
-                "last_commit": "2026-08-28T11:31:03Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:41:37Z",
+                "open_issues": 11,
                 "owner": "umati",
                 "repo": "hackathon",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             }
@@ -65,12 +80,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open Source OPC UA Application Server and OPC UA Client/Server C++ Libraries",
+                    "homepage": "https://asneg.github.io/projects/opcuastack",
                     "id": 149216768,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-02-02T18:34:35Z",
+                    "open_issues": 31,
                     "owner": "ASNeG",
                     "repo": "OpcUaStack",
-                    "stars": 136
+                    "stars": 136,
+                    "topics": [
+                      "client",
+                      "communication",
+                      "cpp",
+                      "iot",
+                      "opc-ua",
+                      "opcua",
+                      "sdk",
+                      "server"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -81,12 +110,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OPC UA made easy - main repository of the Unified Architecture Framework",
+                    "homepage": null,
                     "id": 10055010,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-07-10T12:34:03Z",
+                    "open_issues": 20,
                     "owner": "uaf",
                     "repo": "uaf",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -97,12 +131,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library for loading opc ua nodesets from xml and sorting the nodes",
+                    "homepage": null,
                     "id": 695775689,
                     "language": "C",
+                    "license": "MPL-2.0",
                     "last_commit": "2024-04-13T18:24:45Z",
+                    "open_issues": 0,
                     "owner": "matkonnerth",
                     "repo": "nodesetLoader",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 }
@@ -120,12 +159,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open Source C++ OPC-UA Server and Client Library",
+                    "homepage": "http://freeopcua.github.io/",
                     "id": 21086145,
                     "language": "C++",
+                    "license": "LGPL-3.0",
                     "last_commit": "2024-08-14T15:15:14Z",
+                    "open_issues": 143,
                     "owner": "FreeOpcUa",
                     "repo": "freeopcua",
-                    "stars": 787
+                    "stars": 787,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -136,12 +180,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Qt C++ wrapper for open62541 server stack",
+                    "homepage": null,
                     "id": 180606564,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2024-02-13T18:21:05Z",
+                    "open_issues": 7,
                     "owner": "QUaServer",
                     "repo": "QUaServer",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": [
+                      "cplusplus",
+                      "cpp",
+                      "opc-ua",
+                      "qt",
+                      "qt5"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 }
@@ -159,12 +214,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OPC Unified Architecture .NET Standard",
+                    "homepage": null,
                     "id": 51595028,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T20:33:08Z",
+                    "open_issues": 36,
                     "owner": "OPCFoundation",
                     "repo": "UA-.NETStandard",
-                    "stars": 2376
+                    "stars": 2376,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -175,12 +235,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visualize and control your enterprise using OPC Unified Architecture (OPC UA) and Visual Studio.",
+                    "homepage": null,
                     "id": 61950201,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-09-01T19:23:16Z",
+                    "open_issues": 29,
                     "owner": "convertersystems",
                     "repo": "opc-ua-client",
-                    "stars": 467
+                    "stars": 467,
+                    "topics": [
+                      "hmi",
+                      "iiot",
+                      "opc-ua",
+                      "opcua"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -191,12 +261,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source OPC UA client and server library",
+                    "homepage": null,
                     "id": 184088857,
                     "language": "C#",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-18T11:38:56Z",
+                    "open_issues": 0,
                     "owner": "nauful",
                     "repo": "LibUA",
-                    "stars": 343
+                    "stars": 343,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -207,12 +282,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OPC client made simpler, for UA and DA",
+                    "homepage": null,
                     "id": 29739673,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2020-01-23T14:29:43Z",
+                    "open_issues": 40,
                     "owner": "hylasoft-usa",
                     "repo": "h-opc",
-                    "stars": 316
+                    "stars": 316,
+                    "topics": [
+                      "c-sharp",
+                      "client",
+                      "monitoring",
+                      "opc"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 }
@@ -230,12 +315,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "TypeScript / JavaScript OPC UA client for the browser",
+                    "homepage": null,
                     "id": 245996259,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-07-18T21:13:43Z",
+                    "open_issues": 42,
                     "owner": "HBM",
                     "repo": "opcua",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "iiot",
+                      "iot",
+                      "javascript",
+                      "opcua",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 }
@@ -253,12 +349,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541).",
+                    "homepage": "http://www.eclipse.org/milo",
                     "id": 58208693,
                     "language": "Java",
+                    "license": "EPL-2.0",
                     "last_commit": "2026-08-19T12:19:12Z",
+                    "open_issues": 4,
                     "owner": "eclipse-milo",
                     "repo": "milo",
-                    "stars": 1383
+                    "stars": 1383,
+                    "topics": [
+                      "client",
+                      "iec-62541",
+                      "iec62541",
+                      "industrial-automation",
+                      "iot",
+                      "java",
+                      "milo",
+                      "opc-ua",
+                      "opcua",
+                      "sdk",
+                      "server",
+                      "stack"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 }
@@ -276,12 +390,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LGPL Pure Python OPC-UA Client and Server",
+                    "homepage": "http://freeopcua.github.io/",
                     "id": 31074280,
                     "language": "Python",
+                    "license": "LGPL-3.0",
                     "last_commit": "2024-05-18T14:28:47Z",
+                    "open_issues": 428,
                     "owner": "FreeOpcUa",
                     "repo": "python-opcua",
-                    "stars": 1489
+                    "stars": 1489,
+                    "topics": [
+                      "iec-62541",
+                      "library",
+                      "opc",
+                      "opc-ua",
+                      "protocol",
+                      "python",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -292,12 +419,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OPC UA library for python >= 3.10",
+                    "homepage": null,
                     "id": 143260613,
                     "language": "Python",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-08-27T14:55:05Z",
+                    "open_issues": 245,
                     "owner": "FreeOpcUa",
                     "repo": "opcua-asyncio",
-                    "stars": 1469
+                    "stars": 1469,
+                    "topics": [
+                      "asyncio",
+                      "iec62541",
+                      "opc-ua",
+                      "opcua",
+                      "protocol",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -308,12 +447,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OPC UA made easy - main repository of the Unified Architecture Framework",
+                    "homepage": null,
                     "id": 10055010,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-07-10T12:34:03Z",
+                    "open_issues": 20,
                     "owner": "uaf",
                     "repo": "uaf",
-                    "stars": 110
+                    "stars": 110,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 }
@@ -331,12 +475,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A client and server implementation of the OPC UA specification written in Rust",
+                    "homepage": null,
                     "id": 78271061,
                     "language": "Rust",
+                    "license": "MPL-2.0",
                     "last_commit": "2025-04-08T02:12:35Z",
+                    "open_issues": 114,
                     "owner": "locka99",
                     "repo": "opcua",
-                    "stars": 574
+                    "stars": 574,
+                    "topics": [
+                      "embedded",
+                      "iec-62541",
+                      "iot",
+                      "monitoring",
+                      "opc",
+                      "opc-ua",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -347,12 +504,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 722206438,
                     "language": "Rust",
+                    "license": null,
                     "last_commit": "2026-07-30T12:45:23Z",
+                    "open_issues": 11,
                     "owner": "HMIProject",
                     "repo": "open62541",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 }
@@ -370,12 +532,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Native Go OPC-UA library",
+                    "homepage": null,
                     "id": 142013463,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-09T16:47:19Z",
+                    "open_issues": 27,
                     "owner": "gopcua",
                     "repo": "opcua",
-                    "stars": 1057
+                    "stars": 1058,
+                    "topics": [
+                      "golang",
+                      "ics",
+                      "opc-ua",
+                      "protocol",
+                      "scada"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 },
@@ -386,12 +559,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OPC Unified Architecture (OPC UA) in Go.",
+                    "homepage": null,
                     "id": 278507648,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-02-08T20:36:22Z",
+                    "open_issues": 6,
                     "owner": "awcullen",
                     "repo": "opcua",
-                    "stars": 112
+                    "stars": 112,
+                    "topics": [
+                      "iiot",
+                      "opc-ua",
+                      "opcua",
+                      "opcua-client",
+                      "opcua-server"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
                 }
@@ -414,12 +598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OPC-UA GUI Client",
+                "homepage": null,
                 "id": 43219402,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-05T06:36:04Z",
+                "open_issues": 57,
                 "owner": "FreeOpcUa",
                 "repo": "opcua-client-gui",
-                "stars": 670
+                "stars": 670,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             },
@@ -430,12 +619,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browse and monitor OPC UA servers from your terminal. Lightweight, cross-platform, keyboard and mouse friendly.",
+                "homepage": null,
                 "id": 1127986830,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-16T09:25:08Z",
+                "open_issues": 1,
                 "owner": "SquareWaveSystems",
                 "repo": "opcilloscope",
-                "stars": 147
+                "stars": 147,
+                "topics": [
+                  "dotnet",
+                  "iiot",
+                  "industrial-automation",
+                  "opc",
+                  "opc-client",
+                  "opc-ua",
+                  "opcua",
+                  "opcua-client",
+                  "terminal",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             },
@@ -446,12 +651,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OPC UA browser for Android and iOS based on Qt Quick and Qt OPC UA",
+                "homepage": null,
                 "id": 741951281,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2025-06-11T07:48:56Z",
+                "open_issues": 1,
                 "owner": "basysKom",
                 "repo": "opcua_browser",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "opcua",
+                  "opcua-client",
+                  "qt",
+                  "qt6",
+                  "qtquick"
+                ]
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             },
@@ -462,12 +678,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OPC UA Test tool, using open62541, matkonnerth::modernOpc, matkonnerth::nodesetLoader",
+                "homepage": null,
                 "id": 269558965,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-02-18T13:03:55Z",
+                "open_issues": 10,
                 "owner": "matkonnerth",
                 "repo": "opcuatesttool",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "opc-ua",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             }
@@ -485,12 +709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI to create OPC UA  models and export them as XML",
+                "homepage": null,
                 "id": 64197046,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-02-13T10:16:50Z",
+                "open_issues": 51,
                 "owner": "FreeOpcUa",
                 "repo": "opcua-modeler",
-                "stars": 259
+                "stars": 259,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             },
@@ -501,12 +730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ModelCompiler converts XML files into C# and ANSI C",
+                "homepage": null,
                 "id": 48052008,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-01T00:16:24Z",
+                "open_issues": 30,
                 "owner": "OPCFoundation",
                 "repo": "UA-ModelCompiler",
-                "stars": 172
+                "stars": 172,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             },
@@ -517,12 +751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://nodedoc-demo.scch.at/",
                 "id": 713328083,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-03-20T09:18:21Z",
+                "open_issues": 0,
                 "owner": "software-competence-center-hagenberg",
                 "repo": "NodeDoc",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             },
@@ -533,12 +772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Eclipse Papyrus Plugin for OPC-UA transformation",
+                "homepage": null,
                 "id": 258445380,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2021-12-07T12:08:58Z",
+                "open_issues": 8,
                 "owner": "model-UA",
                 "repo": "papyrus-opcua-plugin",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             }
@@ -556,12 +800,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OPC UA exporter for Prometheus",
+                "homepage": null,
                 "id": 795437567,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T05:13:41Z",
+                "open_issues": 3,
                 "owner": "ainglessi",
                 "repo": "prometheus_asyncua_exporter",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "asyncio",
+                  "opcua",
+                  "prometheus-exporter"
+                ]
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             }
@@ -579,12 +832,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OPC UA Information Model database with a REST interface, as well as user management. The global instance of this (hosted by the OPC Foundation) can be found at https://uacloudlibrary.opcfoundation.org.",
+                "homepage": null,
                 "id": 368626494,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-23T22:52:42Z",
+                "open_issues": 4,
                 "owner": "OPCFoundation",
                 "repo": "UA-CloudLibrary",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "cloud",
+                  "digitaltwin",
+                  "opcua"
+                ]
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             },
@@ -595,12 +857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to manage OPC UA information models (\"industrial digital twins\"). UA Cloud Viewer is a tool used in Industrial IoT scenarios to bridge the gap from OT to IT. OPC UA is the standard interface for vendor-neutral Operational Technology (OT) interoperability in factories, plants and renewable energy farms.",
+                "homepage": null,
                 "id": 411142658,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-02-11T08:26:40Z",
+                "open_issues": 1,
                 "owner": "OPCFoundation",
                 "repo": "UA-CloudViewer",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:48:51.280Z"
             }
@@ -622,12 +889,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unlocking the Full Potential of OPC UA with Typescript and NodeJS - http://node-opcua.github.io/",
+            "homepage": null,
             "id": 16153672,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:04:36Z",
+            "open_issues": 20,
             "owner": "node-opcua",
             "repo": "node-opcua",
-            "stars": 1655
+            "stars": 1655,
+            "topics": [
+              "cryptography",
+              "cybersecurity",
+              "energy",
+              "iec-62541",
+              "iiot",
+              "industrial-automation",
+              "industry-4",
+              "instrumentation",
+              "iot-platform",
+              "javascript",
+              "m2m",
+              "manufacturing",
+              "node-opcua",
+              "nodejs",
+              "opc-ua",
+              "opcua",
+              "transport",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -638,12 +929,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541).",
+            "homepage": "http://www.eclipse.org/milo",
             "id": 58208693,
             "language": "Java",
+            "license": "EPL-2.0",
             "last_commit": "2026-08-19T12:19:12Z",
+            "open_issues": 4,
             "owner": "eclipse-milo",
             "repo": "milo",
-            "stars": 1383
+            "stars": 1383,
+            "topics": [
+              "client",
+              "iec-62541",
+              "iec62541",
+              "industrial-automation",
+              "iot",
+              "java",
+              "milo",
+              "opc-ua",
+              "opcua",
+              "sdk",
+              "server",
+              "stack"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -654,12 +963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample OPC UA server with nodes that generate random and increasing data, anomalies and much more ...",
+            "homepage": null,
             "id": 153405532,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-19T12:42:38Z",
+            "open_issues": 1,
             "owner": "Azure-Samples",
             "repo": "iot-edge-opc-plc",
-            "stars": 293
+            "stars": 293,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -670,12 +984,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MIRROR] Sample-Server implementation based on open62541, showcases umati endorsed OPC UA companion specifications. Provides a :whale2: :package: to run locally for development purpose.",
+            "homepage": "https://codeberg.org/umati/Sample-Server",
             "id": 308618820,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T13:58:35Z",
+            "open_issues": 15,
             "owner": "umati",
             "repo": "Sample-Server",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "companion-specification",
+              "docker-image",
+              "machine-tools",
+              "opc-ua-instance",
+              "opcua",
+              "opcua-server",
+              "open62541",
+              "robotics",
+              "simulated-machine",
+              "umati",
+              "vdma",
+              "vdw"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -686,12 +1018,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OPC UA Sample Server based on node-opcua. Showcasing how to implement companion specifications. ",
+            "homepage": null,
             "id": 402656225,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:08:02Z",
+            "open_issues": 0,
             "owner": "umati",
             "repo": "Sample-Server-node-opcua",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -702,12 +1039,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OPC UA player that support replaying OPC UA data from file",
+            "homepage": null,
             "id": 144198068,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-07-12T12:31:39Z",
+            "open_issues": 1,
             "owner": "MileBuurmeijer",
             "repo": "OPCUA-Player",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "opc-ua",
+              "player",
+              "server",
+              "streaming-data",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -718,12 +1066,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MIRROR] Please open issues at the primary location linked below. OPC UA Sample Server based on FreeOpcUa/opcua-asyncio. Showcasing how to implement companion specifications.",
+            "homepage": "https://codeberg.org/umati/Sample-Server-asyncio",
             "id": 375278079,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T08:19:21Z",
+            "open_issues": 2,
             "owner": "umati",
             "repo": "Sample-Server-asyncio",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "opcua",
+              "opcua-asyncio",
+              "opcua-server"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         }
@@ -740,12 +1097,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample HMIs using OPC Unified Architecture (OPC UA) and Visual Studio.",
+            "homepage": null,
             "id": 61950846,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-01-16T20:43:34Z",
+            "open_issues": 1,
             "owner": "convertersystems",
             "repo": "opc-ua-samples",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "hmi",
+              "iiot",
+              "opc-ua"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -756,12 +1122,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MIRROR] Sample-Server implementation based on open62541, showcases umati endorsed OPC UA companion specifications. Provides a :whale2: :package: to run locally for development purpose.",
+            "homepage": "https://codeberg.org/umati/Sample-Server",
             "id": 308618820,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T13:58:35Z",
+            "open_issues": 15,
             "owner": "umati",
             "repo": "Sample-Server",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "companion-specification",
+              "docker-image",
+              "machine-tools",
+              "opc-ua-instance",
+              "opcua",
+              "opcua-server",
+              "open62541",
+              "robotics",
+              "simulated-machine",
+              "umati",
+              "vdma",
+              "vdw"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -772,12 +1156,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OPC UA Information Model database with a REST interface, as well as user management. The global instance of this (hosted by the OPC Foundation) can be found at https://uacloudlibrary.opcfoundation.org.",
+            "homepage": null,
             "id": 368626494,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T22:52:42Z",
+            "open_issues": 4,
             "owner": "OPCFoundation",
             "repo": "UA-CloudLibrary",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "cloud",
+              "digitaltwin",
+              "opcua"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -788,12 +1181,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform OPC UA cloud dashboard reference implementation leveraging MQTT. It runs in a Docker container and displays OPC UA PubSub telemetry data, read directly from an MQTT broker or Azure EventHub/IoT Hub. It supports both JSON and binary payloads as well as OPC UA Complex Types decoding.",
+            "homepage": null,
             "id": 369797694,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-13T21:32:22Z",
+            "open_issues": 0,
             "owner": "OPCFoundation",
             "repo": "UA-CloudDashboard",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "iot",
+              "mqtt",
+              "opcua"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -804,12 +1206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OPC UA Sample Server based on node-opcua. Showcasing how to implement companion specifications. ",
+            "homepage": null,
             "id": 402656225,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:08:02Z",
+            "open_issues": 0,
             "owner": "umati",
             "repo": "Sample-Server-node-opcua",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -820,12 +1227,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimum Viable Product for an MQTT-based OPC UA PubSub Publisher for industrial cloud telemetry",
+            "homepage": null,
             "id": 369765872,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-11-24T14:58:27Z",
+            "open_issues": 0,
             "owner": "barnstee",
             "repo": "MQTTPublisherMVP",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "azureiot",
+              "mqtt",
+              "opcua"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -836,12 +1252,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MIRROR] Please open issues at the primary location linked below. OPC UA Sample Server based on FreeOpcUa/opcua-asyncio. Showcasing how to implement companion specifications.",
+            "homepage": "https://codeberg.org/umati/Sample-Server-asyncio",
             "id": 375278079,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T08:19:21Z",
+            "open_issues": 2,
             "owner": "umati",
             "repo": "Sample-Server-asyncio",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "opcua",
+              "opcua-asyncio",
+              "opcua-server"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -852,12 +1277,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OPC Router Docker Sample for a Umati MSSQL communication with Grafana Dashboard",
+            "homepage": "https://www.opc-router.com/",
             "id": 441151612,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-09-26T14:01:31Z",
+            "open_issues": 0,
             "owner": "OPC-Router",
             "repo": "opc-ua-umati-mssql-grafana",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "dashboard",
+              "datacollection",
+              "docker",
+              "grafana",
+              "iot",
+              "middleware",
+              "mssql",
+              "opc-ua",
+              "opcua",
+              "sample",
+              "umati",
+              "umati-showcase"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -868,12 +1311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proof of concept Plug & Produce Architecture for Robot Skill Systems and corresponding System components (Tools, Software, Algorithms)",
+            "homepage": null,
             "id": 243046100,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-04-24T17:30:35Z",
+            "open_issues": 0,
             "owner": "opcua-skills",
             "repo": "plug-and-produce",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -884,12 +1332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The purpose of the IJT group is to define data models and data access standards for various joining techniques such as Tightening, Gluing, Riveting, Flow Drill Fastening, etc.",
+            "homepage": null,
             "id": 564042082,
             "language": "Python",
-            "last_commit": "2026-08-28T11:49:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:59:41Z",
+            "open_issues": 2,
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -900,12 +1353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source OPC UA server for Modbus TCP devices",
+            "homepage": null,
             "id": 407841758,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-20T15:37:07Z",
+            "open_issues": 0,
             "owner": "BoBiene",
             "repo": "OPCModbusUAServer",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -916,12 +1374,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample OPC-UA server based on a model design XML",
+            "homepage": null,
             "id": 580314849,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2026-04-16T07:09:37Z",
+            "open_issues": 0,
             "owner": "ntd",
             "repo": "opcua-primer",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "linux",
+              "modeldesign",
+              "opc",
+              "opc-ua",
+              "opcua",
+              "open62541",
+              "server",
+              "ua-modelcompiler"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -932,12 +1404,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small Project to showcase the OPC UA for Machinery from the End-User perspective!",
+            "homepage": null,
             "id": 791736938,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:08:49Z",
+            "open_issues": 7,
             "owner": "AndreasHeine",
             "repo": "opcua-machinery-client",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -948,12 +1425,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 447661637,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-26T05:26:54Z",
+            "open_issues": 2,
             "owner": "arnoweiss",
             "repo": "opcua-transformer",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -964,12 +1446,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ARCHIVED: OPC UA Server that can generate an Industry 4.0 Asset Admin Shell from its info model",
+            "homepage": null,
             "id": 777156744,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-03-25T10:15:10Z",
+            "open_issues": 0,
             "owner": "umati",
             "repo": "OPCUA2AAS",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         }
@@ -986,12 +1473,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source implementation of OPC UA (OPC Unified Architecture) aka IEC 62541 licensed under Mozilla Public License v2.0",
+            "homepage": "https://open62541.org",
             "id": 15333809,
             "language": "C",
-            "last_commit": "2026-08-28T17:13:19Z",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-29T04:15:55Z",
+            "open_issues": 827,
             "owner": "open62541",
             "repo": "open62541",
-            "stars": 3219
+            "stars": 3219,
+            "topics": [
+              "c",
+              "client",
+              "iec-62541",
+              "industrial-automation",
+              "opc",
+              "opc-ua",
+              "opcua",
+              "publish-subscribe",
+              "pubsub",
+              "sdk",
+              "server",
+              "tsn"
+            ]
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         },
@@ -1002,12 +1507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome open source IoT frameworks, libraries and software.",
+            "homepage": null,
             "id": 58220022,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-21T18:14:06Z",
+            "open_issues": 8,
             "owner": "Agile-IoT",
             "repo": "awesome-open-iot",
-            "stars": 706
+            "stars": 706,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:48:51.280Z"
         }
@@ -1016,15 +1526,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:48:51.280Z",
+    "last_updated": "2026-08-29T04:52:57.755Z",
     "original_repository_info": {
       "archived": false,
+      "description": null,
+      "homepage": null,
       "id": 315988202,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-28T18:45:23Z",
+      "open_issues": 9,
       "owner": "iswunistuttgart",
       "repo": "awesome-opcua",
-      "stars": 157
+      "stars": 157,
+      "topics": [
+        "awesome-list",
+        "opc-ua",
+        "opcua"
+      ]
     },
     "original_repository_sha": "6591c8d9e6b73675a27c68f2d1668e1e2884c9b3",
     "enhanced_repository": "enhansome/enhansome-opcua",

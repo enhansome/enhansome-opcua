@@ -15,7 +15,7 @@
             "id": 40378911,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-15T15:42:57Z",
+            "last_commit": "2026-10-18T12:17:21Z",
             "open_issues": 41,
             "owner": "OPCFoundation",
             "repo": "UA-Nodeset",
@@ -219,11 +219,11 @@
                     "id": 51595028,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-17T11:17:23Z",
+                    "last_commit": "2026-10-18T12:52:00Z",
                     "open_issues": 27,
                     "owner": "OPCFoundation",
                     "repo": "UA-.NETStandard",
-                    "stars": 2413,
+                    "stars": 2416,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:48:51.280Z"
@@ -358,7 +358,7 @@
                     "open_issues": 2,
                     "owner": "eclipse-milo",
                     "repo": "milo",
-                    "stars": 1392,
+                    "stars": 1393,
                     "topics": [
                       "client",
                       "iec-62541",
@@ -399,7 +399,7 @@
                     "open_issues": 248,
                     "owner": "FreeOpcUa",
                     "repo": "opcua-asyncio",
-                    "stars": 1499,
+                    "stars": 1500,
                     "topics": [
                       "asyncio",
                       "iec62541",
@@ -427,7 +427,7 @@
                     "open_issues": 428,
                     "owner": "FreeOpcUa",
                     "repo": "python-opcua",
-                    "stars": 1491,
+                    "stars": 1492,
                     "topics": [
                       "iec-62541",
                       "library",
@@ -484,7 +484,7 @@
                     "open_issues": 115,
                     "owner": "locka99",
                     "repo": "opcua",
-                    "stars": 575,
+                    "stars": 576,
                     "topics": [
                       "embedded",
                       "iec-62541",
@@ -541,7 +541,7 @@
                     "open_issues": 54,
                     "owner": "gopcua",
                     "repo": "opcua",
-                    "stars": 1069,
+                    "stars": 1070,
                     "topics": [
                       "golang",
                       "ics",
@@ -898,7 +898,7 @@
             "open_issues": 20,
             "owner": "node-opcua",
             "repo": "node-opcua",
-            "stars": 1664,
+            "stars": 1665,
             "topics": [
               "cryptography",
               "cybersecurity",
@@ -938,7 +938,7 @@
             "open_issues": 2,
             "owner": "eclipse-milo",
             "repo": "milo",
-            "stars": 1392,
+            "stars": 1393,
             "topics": [
               "client",
               "iec-62541",
@@ -968,8 +968,8 @@
             "id": 153405532,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-16T02:55:12Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-18T02:54:51Z",
+            "open_issues": 8,
             "owner": "Azure-Samples",
             "repo": "iot-edge-opc-plc",
             "stars": 299,
@@ -1048,7 +1048,7 @@
             "open_issues": 3,
             "owner": "MileBuurmeijer",
             "repo": "OPCUA-Player",
-            "stars": 18,
+            "stars": 19,
             "topics": [
               "opc-ua",
               "player",
@@ -1337,7 +1337,7 @@
             "id": 564042082,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T21:22:49Z",
+            "last_commit": "2026-10-18T10:38:27Z",
             "open_issues": 1,
             "owner": "umati",
             "repo": "UA-for-Industrial-Joining-Technologies",
@@ -1478,11 +1478,11 @@
             "id": 15333809,
             "language": "C",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-17T12:17:39Z",
-            "open_issues": 861,
+            "last_commit": "2026-10-18T08:04:15Z",
+            "open_issues": 855,
             "owner": "open62541",
             "repo": "open62541",
-            "stars": 3251,
+            "stars": 3253,
             "topics": [
               "c",
               "client",
@@ -1526,7 +1526,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T12:53:58.762Z",
+    "last_updated": "2026-10-18T13:09:47.774Z",
     "original_repository_info": {
       "archived": false,
       "description": null,
